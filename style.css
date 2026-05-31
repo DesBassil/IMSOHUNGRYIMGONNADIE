@@ -180,7 +180,8 @@ img{
   height: 5px;
   width: 100%;
   background-color: #fedfdd;
-    border-radius: 15px
+    border-radius: 15px;
+    margin-bottom: 10px;
 }
 
 .navfooter {
